@@ -80,7 +80,7 @@
     "@artblocks/contracts": "^1.0.2",
     "encoding": "^0.1.13",
     "graphql": "^16.8.2",
-    "graphql-request": "^6.1.0",
+    "graphql-request": "^7.1.2",
     "lodash": "^4.17.21",
     "merkletreejs": "^0.3.11",
     "viem": "^2.13.7",
