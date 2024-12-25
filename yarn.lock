@@ -114,7 +114,7 @@ __metadata:
     "@openzeppelin-5.0/contracts": "npm:@openzeppelin/contracts@5.0.1"
     "@openzeppelin/hardhat-upgrades": "npm:^1.28.0"
     "@openzeppelin/test-helpers": "npm:^0.5.16"
-    "@remix-project/remixd": "npm:^0.6.37"
+    "@remix-project/remixd": "npm:^0.6.42"
     "@safe-global/api-kit": "npm:^1.3.1"
     "@safe-global/protocol-kit": "npm:1.3.0"
     "@safe-global/safe-core-sdk-types": "npm:2.3.0"
@@ -6309,9 +6309,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@remix-project/remixd@npm:^0.6.37":
-  version: 0.6.37
-  resolution: "@remix-project/remixd@npm:0.6.37"
+"@remix-project/remixd@npm:^0.6.42":
+  version: 0.6.42
+  resolution: "@remix-project/remixd@npm:0.6.42"
   dependencies:
     "@remix-project/remix-solidity": "npm:^0.5.36"
     "@remixproject/plugin": "npm:0.3.33"
@@ -6328,7 +6328,7 @@ __metadata:
     ws: "npm:^7.3.0"
   bin:
     remixd: src/bin/remixd.js
-  checksum: 10c0/79f9702c76aaac9b2e685a47473d3ab3bac2b0a0526d02469340cf25b50c4bb7f9b26deb837da791dee1926f91fbbaf2b25296a2464f4ec62569515f6688dbcd
+  checksum: 10c0/d77acbef346b9bce223fdcdfcb075fa9e3c12a231f84e6dc772929df01a126fda6b57fdc9c0135c3402c8504bf9b82cdc40b4c7f3a0be9c1767004368212fa59
   languageName: node
   linkType: hard
 
