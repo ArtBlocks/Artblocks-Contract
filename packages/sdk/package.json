@@ -41,7 +41,7 @@
     "prettier": "^3.3.2",
     "tsconfig": "*",
     "tsup": "^8.1.0",
-    "typescript": "^5.4.5"
+    "typescript": "^5.7.3"
   },
   "scripts": {
     "build": "yarn codegen && tsup src/index.ts src/machines/**/index.ts src/machines/utils.ts --dts",

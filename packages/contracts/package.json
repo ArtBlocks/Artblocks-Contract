@@ -126,7 +126,7 @@
     "ts-node": "^9.1.1",
     "tsconfig": "*",
     "typechain": "^8.3.2",
-    "typescript": "^5.4.5"
+    "typescript": "^5.7.3"
   },
   "author": "Art Blocks, Inc",
   "license": "LGPL-3.0-only",
